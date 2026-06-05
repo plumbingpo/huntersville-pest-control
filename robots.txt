@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huntersvillepestcontrolco.com/sitemap.xml
